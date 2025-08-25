@@ -54,4 +54,5 @@ echo [ENGINEERING ANALYSIS COMPLETE]
 echo 1. Windows Update or a reboot will likely reset these changes.
 echo 2. Your system is now vulnerable. Act accordingly.
 echo ---------------------------------------------------------------------------
+
 pause батник
